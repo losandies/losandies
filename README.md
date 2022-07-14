@@ -1,5 +1,17 @@
+## I am a front end engineer with a passion for cultivating solutions. I love being challenged and the feeling that comes from overcoming that challenge. My goal is to find a company where I can continuously be learning and find new ways to set the bar higher and higher for myself. 
+ 
+# My current skills include:
 
-Hey! My name is Brandon and I'm an aspiring Front-end Developer. 
-I'm currently learning React.js and will soon move on to a back-end language like Node.js or Python.
-My goal is to be employable as a front-end web developer by the start of 2022!
+ - HTML/CSS
+ - JavaScript
+ - React/Redux
+ - Node.js
+ - Express
+ - Mongoose/MongoDB
+ - Tailwindcss
 
+# What I’m currently learning: 
+ 
+ - TypeScript
+ - PostgreSQL
+ - GraphQL
