@@ -10,7 +10,7 @@
  - Mongoose/MongoDB
  - Tailwindcss
 
-# What I’m currently learning: 
+### What I’m currently learning: 
  
  - TypeScript
  - PostgreSQL
