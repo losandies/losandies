@@ -7,11 +7,11 @@
  - React/Redux
  - Node.js
  - Express
+ - PostgreSQL/Prisma
  - Mongoose/MongoDB
  - Tailwindcss
 
 ### What I’m currently learning: 
  
  - TypeScript
- - PostgreSQL
  - GraphQL
