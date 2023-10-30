@@ -3,15 +3,11 @@
 ### My current skills include:
 
  - HTML/CSS
- - JavaScript
+ - JavaScript/TypeScript
+ - Python/Django
  - React/Redux
  - Node.js
  - Express
  - PostgreSQL/Prisma
  - Mongoose/MongoDB
  - Tailwindcss
-
-### What I’m currently learning: 
- 
- - TypeScript
- - GraphQL
